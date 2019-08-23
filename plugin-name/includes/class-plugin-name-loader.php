@@ -3,11 +3,11 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       https://merithot.com
+ * @link       http://example.com
  * @since      1.0.0
  *
- * @package    SW_Videos
- * @subpackage SW_Videos/includes
+ * @package    Plugin_Name
+ * @subpackage Plugin_Name/includes
  */
 
 /**
